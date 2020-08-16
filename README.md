@@ -6,7 +6,7 @@ The analysis was to find high school students standardized Math and Reading scor
 
 # Results
 
-How is the district summary affected?
+#### How is the district summary affected?
 
 These are the changes that occured when The Thomas High School 9th grade scores were removed:
 
@@ -21,24 +21,19 @@ These are the changes that occured when The Thomas High School 9th grade scores 
 •	The overall percentage of passing students decreased by 1% from 65% to 64%
 
 
-
-
-How is the school summary affected?
+#### How is the school summary affected?
 
 •	The school summary shows significant differences in the new passing math, reading, and overall percentages.
 
 
-
-
-How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+#### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
 •	Thomas High School moved two levels below its original ranking in Math. It went from 10th to 12th  in the county . The ranking for reading does not change from 9th place when the scores are removed.
 
-
-
-How does replacing the ninth-grade scores affect the following:
+#### How does replacing the ninth-grade scores affect the following:
 
 	Math and reading scores by grade
+
 •	There was not much changes in the scores for Reading and Math after removing the Thomas High School scores.
 
 	Scores by school spending
@@ -63,14 +58,14 @@ How does replacing the ninth-grade scores affect the following:
 
 As a result of removing Thomas High schools scores the following changes occurred with our data:
 
-1. There was no  impact on average math and reading scores for Charter schools, schools with per student spending of $630 to $644 and school size of 1000 - 2000.
+  1. There was no impact on average math and reading scores for Charter schools, schools with per student spending of $630 to $644 and school size of 1000 - 2000.
 
-2. The percent of students passing math had a 26% decrease from 93% to 67%.
+  2. The percent of students passing math had a 26% decrease from 93% to 67%.
 
-3.The percentage of students passing reading had a 37% decrease at 97% to 70%.
+  3.The percentage of students passing reading had a 37% decrease at 97% to 70%.
 
-4. The amount of overall passing grades decreased from 91% to 65%.
+  4. The amount of overall passing grades decreased from 91% to 65%.
 
-5. Thomas High School lost its ranking as top performing school dropping from rank 4th to 8th.
+  5. Thomas High School lost its ranking as top performing school dropping from rank 4th to 8th.
 
 
