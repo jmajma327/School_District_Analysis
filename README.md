@@ -11,9 +11,13 @@ How is the district summary affected?
 These are the changes that occured when The Thomas High School 9th grade scores were removed:
 
 •	The average math score decreased by .1 points from 79.0 to 78.9
+
 •	The average reading score remained the same at 81.9
+
 •	The percentage of students passing math decreased by 1% from 75% to 74%
+
 •	The percentage of students passing reading decreased by 1% from 86% to 85%
+
 •	The overall percentage of passing students decreased by 1% from 65% to 64%
 
 
