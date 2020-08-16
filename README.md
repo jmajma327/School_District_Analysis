@@ -22,9 +22,11 @@ These are the changes that occured when The Thomas High School 9th grade scores 
 
 
 
+
 How is the school summary affected?
 
 •	The school summary shows significant differences in the new passing math, reading, and overall percentages.
+
 
 
 
